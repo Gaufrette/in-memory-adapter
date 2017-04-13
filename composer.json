@@ -1,0 +1,14 @@
+{
+    "name": "gaufrette/in-memory-adapter",
+    "description": "In Memory adapter for Gaufrette",
+    "type": "metapackage",
+    "require": {
+        "knplabs/gaufrette": "^0.3"
+    },
+    "authors": [
+        {
+            "name": "KnpLabs",
+            "email": "hello@knplabs.com"
+        }
+    ]
+}
